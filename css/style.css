@@ -82,6 +82,7 @@ ul{
     padding-top: 60px;
     padding-bottom: 70px;
     
+    
 }
 
 .section-title
@@ -871,12 +872,17 @@ h3.my-profession
 
 @media(max-width:991px)
 {
+    .contact .contact-form .col-6,
     .contact .contact-info-item,
     .portfolio .portfolio-item,
-    .extra .extra-item
+    .extra .extra-item,
+    .about .about-content .experience,
+    .about .about-content .education,
+    .about .about-content .skills,
+    .about .about-content .personal-info
     {
-        flex: 0 0 50%;
-        max-width: 50%;
+        flex: 0 0 100%;
+        max-width: 100%;
     }
    
     .home .home-info
