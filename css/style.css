@@ -25,6 +25,7 @@ body
     line-height: 1.5;
     font-size: 16px;
     font-family: 'Poppins' sans-serif;
+    
 }
 
 *
@@ -913,6 +914,7 @@ h3.my-profession
     .btn
     {
         padding: 5px 12px 5px 12px;
+        
     }
 } 
 
