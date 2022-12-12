@@ -309,7 +309,7 @@ ul{
 
 .home
 {
-    min-height: 60vh;
+    min-height: 80vh;
     display: flex;
     color: var(--text-black-900);
    
