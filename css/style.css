@@ -306,11 +306,14 @@ ul{
 
 /* home */
 
+
 .home
 {
-    min-height: 100vh;
+    min-height: 60vh;
     display: flex;
     color: var(--text-black-900);
+    
+    
 }
 
 .home .home-info
