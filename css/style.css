@@ -909,5 +909,10 @@ h3.my-profession
         flex: 0 0 100%;
         max-width: 100%;
     }
+
+    .btn
+    {
+        padding: 5px 12px 5px 12px;
+    }
 } 
 
