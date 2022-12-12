@@ -703,11 +703,12 @@ h3.my-profession
     text-transform: capitalize;
 }
 
-.extra .extra-item .extra-item-inner p
+.extra .extra-item .extra-item-inner p, .portfolio-text
 {
     font-size: 16px;
     color: var(--text-black-700);
     line-height: 25px;
+    text-align: center;
 }
  
 
