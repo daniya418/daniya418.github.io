@@ -312,7 +312,7 @@ ul{
     min-height: 100vh;
     display: flex;
     color: var(--text-black-900);
-   
+    
     
 }
 
@@ -895,7 +895,7 @@ h3.my-profession
 }
 
 
-@media(max-width:700px)
+@media(max-width:600px)
 {
     .contact .contact-form .col-6,
     .contact .contact-info-item,
