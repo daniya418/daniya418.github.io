@@ -6,3 +6,10 @@ var typed = new Typed(".typing",{
     BackSpeed:60,
     loop:true
 })
+
+var typed = new Typed(".typing-2",{
+    strings:["","Innovative","Creative","Problem Solver"],
+    typeSpeed:100,
+    BackSpeed:60,
+    loop:true
+})
