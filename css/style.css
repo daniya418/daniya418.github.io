@@ -918,5 +918,15 @@ h3.my-profession
         padding: 5px 12px 5px 12px;
         
     }
+    
+   
+    
 } 
 
+@media(max-width:415px)
+{   .about .about-content .personal-info .info-item
+    {
+        flex: 0 0 100%;
+        max-width: 100%;
+    }
+}
