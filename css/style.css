@@ -717,7 +717,7 @@ h3.my-profession
 
 .portfolio .container
 {
-    padding-bottom: 40px;
+    padding: bottom 5px;
 }
 
 .portfolio .portfolio-heading
@@ -735,9 +735,9 @@ h3.my-profession
 
 .portfolio .portfolio-item
 {
-    flex: 0 0 33.33%;
-    max-width: 33.33%;
-    margin-bottom: 30px;
+    flex: 0 0 50%;
+    max-width: 50%;
+    margin-bottom: 50px;
 }
 
 .portfolio .portfolio-item-inner
@@ -828,6 +828,7 @@ h3.my-profession
 .contact .contact-form .form-item
 {
     margin-bottom: 30px;
+    
 }
  
 .contact .contact-form .form-item .form-control
@@ -852,11 +853,14 @@ h3.my-profession
 {
     height: 140px;
 }
+
 .contact .contact-form .btn
 {
-    height: 59px;
-    padding: 0 50px;
+    height: 49px;
+    padding: 0 20px;
+    
 }
+
 
 @media(max-width:1199px)
 {
